@@ -1,4 +1,5 @@
 # 09_Lab9Web
+<Hr>
 
 TUGAS PERTEMUAN 11
 
@@ -15,8 +16,11 @@ NIM   : 312010191
 KELAS : TI.20.B1
 
 DOSEN : Agung Nugroho,S.Kom.,M.Kom
+<Hr>
 
 # Pemrograman Web: PHP Modular
+
+<hr>
 
 **Instruksi Praktikum**
 1. Persiapkan text editor misalnya **VSCode**. 
@@ -109,12 +113,50 @@ http://localhost/lab9_php_modular/
 
 Gambar 07. Tampilan Web
 
-**Pertanyaan dan Tugas**
+<hr>
+
+## `Pertanyaan dan Tugas`
 
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template 
 
 >**Jawab**:
 
+Buat folder **Tugas lab9_php_modular** pada root directory web server (C:\xampp\htdocs\lab9_php_modular\Lab9_Tugas Modularisasi)
 
+![09_Lab9Web](Gambar/08.Gambar_Directory_Tugas_Lab9.jpg)
 
+Gambar 08. Directory Tugas Lab9
+
+Selanjutnya kita buat modularisasi pada kode program PHP
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
+**http://localhost/lab9_php_modular\Lab9_Tugas Modularisasi/home.php**
+
+## `Tampilan Header & Footer`
+
+![09_Lab9Web](Gambar/09.Gambar_Tampilan_Header_Dan_Footer.jpg)
+
+## `Tampilan Home`
+
+![09_Lab9Web](Gambar/10.Gambar_Tampilan_Home.jpg)
+
+## `Tampilan Tambah`
+
+![09_Lab9Web](Gambar/11.Gambar_Tampilan_Tambah.jpg)
+
+## `Tampilan Setelah Tambah Data Barang`
+
+![09_Lab9Web](Gambar/12.Gambar_Tampilan_Tambah_sukses.jpg)
+
+## `Tampilan Ubah`
+
+![09_Lab9Web](Gambar/13.Gambar_Tampilan_Ubah.jpg)
+
+## `Tampilan Setelah Ubah Data Barang`
+
+![09_Lab9Web](Gambar/14.Gambar_Tampilan_Ubah_sukses.jpg)
+<Hr>
+
+Cukup Sekian Penjelasan dari Saya
+
+**TERIMAKASIH**
